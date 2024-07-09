@@ -21,5 +21,4 @@ I am a freelance frontend developer and web designer.
 
 **Connect with me:**
 - Bio: https://bento.me/himn
-- YouTube: https://www.youtube.com/channel/UCU47_ySWDoZT8z_f9t5hD1A
 - Instagram: https://www.instagram.com/min_ninw/
