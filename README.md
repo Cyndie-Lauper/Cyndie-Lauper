@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Minh
-<h4 align="left">🚀 Passionate Fullstack Developer in the making — specialized in crafting smooth Frontend experiences with React/Next.js, and currently diving deeper into scalable Backend systems with Node.js & microservices.</h4>
+🚀 Passionate Fullstack Developer in the making — specialized in crafting smooth Frontend experiences with React/Next.js, and currently diving deeper into scalable Backend systems with Node.js & microservices.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyndie-lauper&label=Profile%20views&color=0e75b6&style=flat" alt="cyndie-lauper" /> </p>
 
@@ -21,7 +21,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyndie-Lauper&repo=photo-blogs)](https://github.com/Cyndie-Lauper/photo-blogs)
 
-**`I’m still polishing this section ✨ but you can always take a peek at my repositories — that’s where the fun stuff lives.`**
+**`I’m still polishing this section ✨ but u can always take a peek at my repo — that’s where the fun stuff lives.`**
 
 ---
 ## Stats
