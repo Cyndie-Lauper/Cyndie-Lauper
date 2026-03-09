@@ -26,10 +26,10 @@
 ---
 ## Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyndie-lauper&" alt="cyndie-lauper" /></p>
-
-
-![Top Languages](./profile/top-langs.svg)
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyndie-lauper&theme=default" alt="cyndie-lauper GitHub streak" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
+</div>
 
 ---
 <h3 align="left">More contact ?</h3>
