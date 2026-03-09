@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyndie-lauper&label=Profile%20views&color=0e75b6&style=flat" alt="cyndie-lauper" /> </p>
 
-- 💬 Ask me about **everything u need**
+- 💬 Ask me about **everything you need**
 
 - 📫 How to reach me **elevenine00@gmail.com**
 
@@ -19,7 +19,7 @@
 
 ## Projects - showcase
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyndie-Lauper&repo=photo-blogs)](https://github.com/Cyndie-Lauper/photo-blogs)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 **`I’m still polishing this section ✨ but u can always take a peek at my repo — that’s where the fun stuff lives.`**
 
@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyndie-lauper&" alt="cyndie-lauper" /></p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyndie-Lauper&hide_progress=true)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 <h3 align="left">More contact ?</h3>
